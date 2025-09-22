@@ -367,6 +367,9 @@ sudo systemctl daemon-reload
 - TBD power/utilization-based trigger (instead of clock-based).
 - TBD fan-curve integration via `nvidia-settings`.
 
+## Changelog
+- v1.0 / Initial Release
+
 
 ## License
 MIT
